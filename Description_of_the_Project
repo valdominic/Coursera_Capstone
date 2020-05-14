@@ -1,0 +1,12 @@
+-------- Introduction/Business Problem -------- 
+
+The objective of this project is to understand if there are sufficient, easily accesible hospitals across the City of Bangalore (Bengaluru, India). 
+Bangalore is the silicon city of India and the borders keep expanding due to the fact that there are more job opportunites in the IT sector.
+
+-------- Data --------
+
+We will use the FourSquare API to generate all results in Bangalore with the ‘keyword’ hospital. 
+
+Based on the data we will create:-
+      --- Map the hospitals on the map
+      --- We wil generate clusters to understand where the hospitals are located
